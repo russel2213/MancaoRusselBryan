@@ -1,0 +1,250 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(cp.png) no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 550px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic' , sans-serif;
+}
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+.box h5{
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 100;
+
+}
+.box p{
+    text-align: justify;
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .portfolio{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 50;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.3);
+    font-family: 'Century Gothic' , sans-serif;
+    margin: auto;
+    margin: 0;
+      padding: 0;
+   
+
+  }
+  .myskills{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 50;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.3);
+    font-family: 'Century Gothic' , sans-serif;
+    margin: auto;
+    margin: 0;
+      padding: 0;
+
+  }
+  .Contact{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 50;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.3);
+    font-family: 'Century Gothic' , sans-serif;
+    margin: 0;
+    padding: 0%;
+    background-color: rgb(204, 198, 204);
+    background-size: cover;
+
+  }
+  .contact-box{
+      margin: 0;
+      padding: 0;
+
+  } 
+  body{
+      background-color: #efefef;
+      font-family: sans-serif;
+  }
+  .contact-box{
+      width: 500px;
+      background-color: #fff;
+      box-shadow: 0 0 20px 0 #999;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      position: absolute;
+      margin: 0;
+      padding: 0%;
+      background-color: rgb(12, 7, 12);
+      background-size: cover;
+      width: 85%;
+      max-width: 600px;
+      background: #f1f1f1;
+      top: 50%;
+      left: 50%;
+      bottom: 100000;
+      transform: translate(-50%,-50%);
+      padding: 30px 40px;
+      box-sizing: border-box;
+      border-radius: 8px;
+      text-align: center;
+      box-shadow: 0 0 20px #00000003;
+      font-family: "Montserrat", sans-serif;
+
+  }
+  .body1{
+      margin: 0;
+      padding: 0%;
+      background-color: thistle;
+      background-size: cover;
+
+  }
+  .contacts-form{
+      width: 85%;
+      max-width: 600px;
+      background: #beb7b7;
+      position: absolute;
+      margin: 0;
+      padding: 0%;
+      background-color: rgb(126, 113, 126);
+      background-size: cover;
+
+      
+      top: 50%;
+      left: 50%;
+      bottom: 100000;
+      transform: translate(-50%,-50%);
+      padding: 30px 40px;
+      box-sizing: border-box;
+      border-radius: 8px;
+      text-align: center;
+      box-shadow: 0 0 20px #00000003;
+      font-family: "Montserrat", sans-serif;
+
+  }
+  .contacts-form h4{
+      margin-top: 0;
+      font-weight: 200;
+      margin: 0;
+      padding: 0%;
+      background-color: thistle;
+      background-size: cover;
+
+  }
+  .txtb{
+      border:1px solid gray;
+      margin: 8px 0;
+      padding: 12px 18px;
+      border-radius: 8px;
+
+  }
+  .txtb label{
+      display: block;
+      text-align: left;
+      color: #333;
+      text-transform: uppercase;
+      font-size: 13px;
+
+  }
+  .txtb input,.txtb textarea{
+
+    width: 100%;
+    border: none;
+    background: none;
+    outline: none;
+    font-size: 18px;
+    margin-top: 6px;
+
+
+
+  }
+  .btn{
+      display: block;
+      background: #221b22;
+      padding: 14px 0;
+      color: white;
+      text-transform: uppercase;
+      cursor: pointer;
+      margin-top: 8px;
+      width: 100%;
+
+  }
+  .btn:hover{
+      opacity: 0.7;
+  }
+  .JMC-SCHEDULESS{
+    display: block;
+    
+    padding: 14px 0;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-style: oblique;
+    
+    
+
+ }
+ .body4{
+    margin: 1;
+    padding: 1;
+    background: url(cp.png) no-repeat;
+    background-size: cover;
+}
+.box6{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif  ;
+}
+.box7{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif  ;
+
+}
+
+  
